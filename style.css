@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Slackey");
+
+body {
+    font-family: 'Arial';
+    background-color: rgb(124,233,232);
+    padding: 5% 10%;
+ }
+
+ h1 {
+    margin-bottom: 50px;
+ }
